@@ -1,4 +1,7 @@
 
-body{background-image:url("/home/Sem6B12/Downloads/images.jpeg"); background-repeat:repeat; background-attachment:fixed;background-attachment:scroll;}
+body{background-image:url("cc"); background-repeat:no-repeat; background-attachment:fixed;background-attachment:scroll;}
 h1{color:maroon; margin-left:40px;}
-p#pr{color:blue; }
+#pr{color:blue; }
+p.mix{border-style:dotted dashed solid double;}
+p.school{color:red;}
+.college{color:cyan;}
